@@ -1,0 +1,1 @@
+Salio un error de que no podía encontrar la carpeta o archivo asi que no se podía hacer el commit
